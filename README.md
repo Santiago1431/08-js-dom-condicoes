@@ -2,4 +2,4 @@
 
 ### Nome aluno(a)
 
-[comment]: <> (Coloque aqui o nome completo)
+Eurico Santiago Climaco Rodrigues
