@@ -23,3 +23,7 @@ footer{
     font-style: italic;
 
 }
+div {
+    text-align: center;
+    padding: 7px;
+}
