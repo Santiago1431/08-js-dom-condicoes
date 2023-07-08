@@ -1,5 +1,5 @@
 body{
-    background: rgb(255, 0, 0);
+    background: rgba(0, 0, 0, 0.527);
 
     font: normal 15pt Arial;
 
@@ -26,4 +26,11 @@ footer{
 div {
     text-align: center;
     padding: 7px;
+    padding: 8px;
+}
+#foto {
+    padding: 8px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
 }
